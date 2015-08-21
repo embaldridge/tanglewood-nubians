@@ -1,1 +1,7 @@
-call_name,vaccination_type,year_given,month_given,day_given
+call_name,preventative_care,year_given,month_given,day_given
+Reason,CD&T vaccine,2015,8,21
+Fancy,CD&T vaccine,2015,8,21
+Reason,Copasure bolus,2015,8,21
+Fancy,Copasure bolus,2015,8,21
+Reason,Safe-guard wormer febendazole ,2015,8,21
+Fancy,Safe-guard wormer febendazole ,2015,8,21
