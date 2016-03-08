@@ -1,1 +1,10 @@
-herd_name,test_type,year_taken,month_taken,day_taken,result
+herd_name,test_type,diagnostic_lab,year_taken,result,link
+Reason,CAE,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Fancy,CAE,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Spice,CAE,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Reason,CL,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Fancy,CL,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Spice,CL,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Reason,Johne's,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Fancy,Johne's,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
+Spice,Johne's,WADDL,2016,negative,https://drive.google.com/open?id=0BxzyZkNtCHebcXZ4SkNVWUlZVFk
