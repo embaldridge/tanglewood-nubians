@@ -1,9 +1,9 @@
-ADGA_pedigree_number,herd_name,call_name,birth_year,birth_month,birth_day,sex,tattoo_right_ear,tattoo_left_ear,herd_entrance_year,herd_entrance_month,herd_entrance_day,herd_exit_year,herd_exit_month,herd_exit_day,left_herd,notes
-unregistered,Provincia Sweet Rhyme,Rhyme,2014,4,4,F,CMH5,E2,2014,7,22,2014,7,29,death by misadventure,
-N001732505,Provincia Pure Reason,Reason,2014,4,4,F,CMH5,E1,2014,7,22,,,,,
-N001732506,Provincia Flight of Fancy,Fancy,2014,4,4,F,CMH5,E3,2014,7,31,,,,,
-N001741804,Marmalade Spice,Spice,2014,3,5,F,,,2015,10,24,,,,,Purchased 10/18 and hopped fence was gone until 10/24
-,Tanglebriar,Reason doeling,2016,2,10,F,TNGL,H1,2016,2,10,,,,,
-,Tanglebriar,Reason buckling,2016,2,10,M,TNGL,H2,2016,2,10,,,,,
-,Tanglebriar,Fancy buckling,2016,2,13,M,TNGL,H3,2016,2,13,,,,,
-,Tanglebriar,Fancy doeling,2016,2,13,F,TNGL,H4,2016,2,13,,,,,
+ADGA_pedigree_number,herd_name,call_name,dam,sire,pedigree,birth_year,birth_month,birth_day,sex,tattoo_right_ear,tattoo_left_ear,herd_entrance_year,herd_entrance_month,herd_entrance_day,herd_exit_year,herd_exit_month,herd_exit_day,left_herd,notes
+unregistered,Provincia Sweet Rhyme,Rhyme,Dan Jud's Painted Miss Miley,Blissberry FM Tahoe,,2014,4,4,F,CMH5,E2,2014,7,22,2014,7,29,death by misadventure,
+N1732505,Provincia Pure Reason,Reason,Dan Jud's Painted Miss Miley,Blissberry FM Tahoe,https://drive.google.com/open?id=0BxzyZkNtCHebdnRBT0w2M3pqZ2M,2014,4,4,F,CMH5,E1,2014,7,22,,,,,
+N1732506,Provincia Flight of Fancy,Fancy,Dan Jud's Painted Miss Miley,Blissberry FM Tahoe,https://drive.google.com/open?id=0BxzyZkNtCHebSjZZdTdJQ045eHc,2014,4,4,F,CMH5,E3,2014,7,31,,,,,
+N1741804,Marmalade Spice,Spice,Aja-Sammati Apriot Strudel,Alize Under Kover Agent,https://drive.google.com/open?id=0BxzyZkNtCHebN2lwcXhVQkhDdEU,2014,3,5,F,JA15,E40,2015,10,24,,,,,Purchased 10/18 and hopped fence was gone until 10/24
+N1768365,Tanglebriar Vostok Valentina,Reason doeling,Provincia Pure Reason,Blissberry MW Renegade,https://drive.google.com/open?id=0BxzyZkNtCHebeFZIMUZUNzdodVk,2016,2,10,F,TNGL,H1,2016,2,10,,,,,
+N1767449,Tanglebriar Mission to Mars,Reason buckling,Provincia Pure Reason,Blissberry MW Renegade,https://drive.google.com/open?id=0BxzyZkNtCHebUF81cmFBaWd1YXc,2016,2,10,M,TNGL,H2,2016,2,10,,,,,
+N1767450,Tanglebriar Man on the Moon,Fancy buckling,Provincia Flight of Fancy,Blissberry MW Renegade,https://drive.google.com/open?id=0BxzyZkNtCHebUmJtZWItUWMxNHc,2016,2,13,M,TNGL,H3,2016,2,13,,,,,
+N1767451,Tanglebriar Flight Feathers,Fancy doeling,Provincia Flight of Fancy,Blissberry MW Renegade,https://drive.google.com/open?id=0BxzyZkNtCHebWUhaWWVpVERtZ1k,2016,2,13,F,TNGL,H4,2016,2,13,,,,,
