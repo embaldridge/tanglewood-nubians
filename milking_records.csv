@@ -2,3 +2,13 @@
 call_name,time_24_hr_start,time_24_hr_end,weight_lbs_milk,milking_year,milking_month,milking_day,milker_initials,notes
 Reason,17:08,17:36,3.5,2016,3,10,EB,
 Fancy,17:08,17:33,1.9,2016,3,10,EH,
+Reason,4:42,5:13,3,2016,3,11,EB,
+Fancy,5:18,5:25,2.6,2016,3,11,EB,
+Fancy,12:50,12:53,0.5,2016,3,11,EB,Only smaller left side milked due to lopsided udder
+Reason,17:09,17:38,3.7,2016,3,11,EB,
+Fancy,17:09,17:27,2,2016,3,11,EH,
+Reason,5:00,5:53,3.5,2016,3,11,EH,
+Fancy,5:00,5:08,2.8,2016,3,11,EB,
+Fancy,12:00,12:07,0.7,2016,3,11,EH,Only smaller left side milked due to lopsided udder
+Reason,17:23,17:41,3.4,2016,3,11,EB,
+Fancy,17:23,17:41,2.4,2016,3,11,EH,
